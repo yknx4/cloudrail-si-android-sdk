@@ -27,4 +27,4 @@ With CloudRail, you can easily integrate external APIs into your application. Cl
 
 ## Get Updates
 
-To get **updates** from CloudRail, including any new providers that are added, just add your email address to http://cloudrail.com/updates/.
+To keep updated with CloudRail, including any new providers that are added, just add your email address to http://cloudrail.com/updates/.
