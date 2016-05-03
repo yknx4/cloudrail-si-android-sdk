@@ -2,9 +2,9 @@
 
 CloudRail is a free software library which abstracts multiple APIs from different providers into a single and universal interface.
 
-Full documentation can be found at [https://docs.cloudrail.com/]
+Full documentation can be found at https://docs.cloudrail.com/
 
-## With CloudRail, you can easily integrate external APIs into your application. CloudRail is an abstracted interface that takes several services and then gives a developer-friendly API that uses common functions between all providers. This means that, for example, upload() works in exactly the same way for Dropbox as it does for Google Drive, OneDrive, and other Cloud Storage Services.
+With CloudRail, you can easily integrate external APIs into your application. CloudRail is an abstracted interface that takes several services and then gives a developer-friendly API that uses common functions between all providers. This means that, for example, upload() works in exactly the same way for Dropbox as it does for Google Drive, OneDrive, and other Cloud Storage Services.
 
 ## Current Services
 
@@ -21,6 +21,6 @@ Full documentation can be found at [https://docs.cloudrail.com/]
 
 * Switch services instantly: One line of code is needed to set up the service you are using. Changing which service is as simple as changing the name to the one you wish to use.
 
-* Simple Documentation: There is no searching around Stack Overflow for the answer. The CloudRail documentation at [https://docs.cloudrail.com/] is regularly updated, clean, and simple to use. 
+* Simple Documentation: There is no searching around Stack Overflow for the answer. The CloudRail documentation at https://docs.cloudrail.com/ is regularly updated, clean, and simple to use. 
 
 * No Maintenance Times: The CloudRail Libraries are updated when a provider changes their API.
