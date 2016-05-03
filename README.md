@@ -24,3 +24,7 @@ With CloudRail, you can easily integrate external APIs into your application. Cl
 * Simple Documentation: There is no searching around Stack Overflow for the answer. The CloudRail documentation at https://docs.cloudrail.com/ is regularly updated, clean, and simple to use. 
 
 * No Maintenance Times: The CloudRail Libraries are updated when a provider changes their API.
+
+## Get Updates
+
+To get **updates** from CloudRail, including any new providers that are added, just add your email address to http://cloudrail.com/updates/.
