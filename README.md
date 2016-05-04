@@ -1,6 +1,8 @@
 # CloudRail - Integrate Mulitple Services With Just One API
 
-![overview](http://cloudrail.com/wp-content/uploads/2016/05/cloudrail_SI_github.png)
+<p align="center">
+  <img src="http://cloudrail.com/wp-content/uploads/2016/05/cloudrail_SI_github.png"/>
+</p>
 
 CloudRail is a free software library which abstracts multiple APIs from different providers into a single and universal interface.
 
