@@ -10,6 +10,9 @@ With CloudRail, you can easily integrate external APIs into your application. Cl
 
 ## Code Sample
 ```` java
+// CloudStorage cs = new Box(context, "[clientIdentifier]", "[clientSecret]");
+// CloudStorage cs = new OneDrive(context, "[clientIdentifier]", "[clientSecret]");
+// CloudStorage cs = new GoogleDrive(context, "[clientIdentifier]", "[clientSecret]");
 CloudStorage cs = new Dropbox(context, "[clientIdentifier]", "[clientSecret]");
 new Thread() {
     @Override
